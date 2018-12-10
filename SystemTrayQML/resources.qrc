@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="QtChan.png">res/QtChan.png</file>
+        <file alias="QtChanBack.png">res/QtChanBack.png</file>
+    </qresource>
+</RCC>

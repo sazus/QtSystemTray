@@ -1,0 +1,8 @@
+﻿<RCC>
+    <qresource prefix="/">
+        <file>qtquickcontrols2.conf</file>
+        <file alias="main.qml">ui/main.qml</file>
+        <file alias="SysTrayIconForm.ui.qml">ui/SysTrayIconForm.ui.qml</file>
+        <file alias="SysTrayIcon.qml">ui/SysTrayIcon.qml</file>
+    </qresource>
+</RCC>
